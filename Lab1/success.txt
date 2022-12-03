@@ -1,0 +1,2 @@
+small.txt: 13 matches
+lorem.txt: 38 matches
